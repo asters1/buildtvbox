@@ -29,7 +29,7 @@ jobs:
             repoName: Box
             branchName: main
           - userName: asters1
-            repoName: tvosc
+            repoName: tvbox
             branchName: master
     steps:
       - name: Checkout
